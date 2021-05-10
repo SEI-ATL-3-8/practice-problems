@@ -1,5 +1,0 @@
-Recommended order:
-sumToN
-digDown
-characterCount
-overlappingElements
